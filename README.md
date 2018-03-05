@@ -1,14 +1,16 @@
 # Venu_Resume_DevOps Engineer
+
 ### PROFILE SUMMARY:  ###
+
 #Having 3.9 years of experience as a DevOps Engineer such as Configuration Management System, Continuous Integration, Continuous monitoring &amp; Test management.
 
-#Working Experience in DevOps tools such as SVN, ANT, Git, Maven, Jenkins, Docker, Chef & Ansible along with AWS, Linux & Shell scripting.
+#Working Experience in DevOps tools such as SVN, ANT, Git, Maven, Jenkins, Docker, Chef & Ansible (basic Knowledge) along with AWS, Linux & Shell scripting.
 
 #Extensively worked with Version Control Systems GIT. Maintaining version control Management, Branching, Merging, and user group permissions.
 
 #Working experience in continuous integration using Git, Maven, Jenkins.
 
-#Expertise in Continuous Integration setup. Configured multiple build jobs, integrated test cases, created distributed build environments, and performed plug-in installations, backup etc. using Jenkins.
+#Expertise in setting up Continous Integration process with Jenkins. Configured multiple build jobs, integrated test cases, created distributed build environments, and performed plug-in installations, backup etc. using Jenkins.
 
 #Expertise in setup and configure Tomcat, Deployment of web applications in Tomcat.
 
