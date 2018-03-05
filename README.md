@@ -8,31 +8,39 @@
 
 #Extensively worked with Version Control Systems GIT. Maintaining version control Management, Branching, Merging, and user group permissions.
 
-#Working experience in continuous integration using Git, Maven, Jenkins.
+#Proposed and implemented Branching Strategies. (In GIT)
 
-#Expertise in setting up Continous Integration process with Jenkins. Configured multiple build jobs, integrated test cases, created distributed build environments, and performed plug-in installations, backup etc. using Jenkins.
-
-#Expertise in setup and configure Tomcat, Deployment of web applications in Tomcat.
+#Expertise in setting up Continuous Integration process with Jenkins. Configured multiple build jobs, master/slave setup, integrated test cases, created distributed build environments, and performed plug-in installations, backup etc. using Jenkins.
 
 #Maintain daily builds for ongoing release by setting up new environment.
 
 #Monitor builds and provide proactive support to resolve any build issues.
 
-#Experience in deploying the JAR and WAR files into Tomcat Server.
+#Experience in Troubleshooting the build failures.
 
-#Good knowledge on Jira and Service now administration.
+#Expertise in setup and configure Tomcat server, Deploying JAR/WAT files in Tomcat.
 
-#Proposed and implemented Branching Strategies. (In Distributrd VCS  such as GIT)
+#Automating build process for creating JAR/WAR files using Maven.
 
-#Experience with build tools Ant and Maven for writing build.xml’s  respectively.
+#Used Jira to track issues and change management.
 
-#Experience in Trouble Shooting the build failures.
+#Administrating and Maintaining the Nexus artifactory.
+
+#Regularly monitoring production environments with Nagios.
+
+#Creating Docker containers and Docker images.
+
+#Building instances and managing storage on cloud using AWS EC2 and AWS S3.
+
+#Worked on Multiple AWS instances, set the security groups, Elastic Load Balancer and AMIs, Auto scaling to design cost effective, fault tolerant and highly available systems. 
+
+#Good working knowledge of Creating, the AWS VPC network for installed instances and configured security groups & Elastic IP's. Utilized Cloud Watch to monitor resources.
 
 #Experience in implementing and adapting to Release/Change Management Process.
 
-#Prepared and Maintained Build, Release and Deployment documents.
-
 #Managed environments DEV, QA, UAT and Staging for various releases and designed instance strategies.
+
+#Supporting developers by creating repositories, staging profiles, staging repositories, permissions.
 
 #Proficient in communicating effectively with good project management skills.
 
