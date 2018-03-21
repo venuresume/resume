@@ -4,7 +4,7 @@
 
 #Having 4.2 years of experience as a DevOps Engineer such as Configuration Management System, Continuous Integration, Continuous monitoring &amp; Test management.
 
-#Working Experience in DevOps tools such as SVN, ANT, Git, Maven, Jenkins, Docker, Chef & Ansible (basic Knowledge) along with AWS, Linux & Shell scripting.
+#Working Experience in DevOps tools such as SVN, ANT, Git, Maven, Jenkins, Docker, Kubernetes, Chef & Ansible (basic Knowledge) along with AWS, Linux & Shell scripting.
 
 #Extensively worked with Version Control Systems GIT. Maintaining version control Management, Branching, Merging, and user group permissions.
 
@@ -28,7 +28,9 @@
 
 #Regularly monitoring production environments with Nagios.
 
-#Creating Docker containers and Docker images.
+#Creating Docker containers, Docker images and Docker files.
+
+#Experience in Kubernetes clustering, functionalities and services.
 
 #Building instances and managing storage on cloud using AWS EC2 and AWS S3.
 
