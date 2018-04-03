@@ -3,9 +3,9 @@
 
 ### PROFILE SUMMARY:  ###
 
-#Having 4.2 years of experience as a DevOps Engineer such as Configuration Management System, Continuous Integration, Continuous monitoring &amp; Test management.
+#Having 4.2 years of experience as a DevOps Engineer such as Configuration Management System, Continuous Integration, Continuous monitoring & Test management.
 
-#Working Experience in DevOps tools such as SVN, ANT, Git, Maven, Jenkins, Docker, Kubernetes, Chef & Ansible (basics) along with AWS, Linux & Shell scripting.
+#Working Experience in DevOps tools such as SVN, Git, Maven, Jenkins, Docker, Kubernetes, & Ansible (basics) along with AWS, Linux & Shell scripting.
 
 #Extensively worked with Version Control Systems GIT. Maintaining version control Management, Branching, Merging, and user group permissions.
 
