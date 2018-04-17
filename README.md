@@ -27,7 +27,7 @@
 
 #Expertise in Kubernetes clustering, configuration, Architecture and services.
 
-#Expertise in container networking and standard Infrastructure maintenance tasks on Docker and Kubernetes platform.
+#Expertise in container networking and supporting Docker based Paas environment using Kubernetes.
 
 #Troubleshoot and resolve issues within the Docker and kubernetes environment.
 
